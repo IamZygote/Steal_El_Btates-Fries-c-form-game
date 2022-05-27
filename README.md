@@ -4,7 +4,8 @@ Steal El Btates "Steal The Fries" :fries: is a windows form application game mad
 
 The story of the game is a creature wants to fight the mold to get the fries recipe :fries:
 
-![Logo](https://i.imgur.com/pEpe7np.png)
+![1](https://user-images.githubusercontent.com/58863853/170800480-81b3d084-d328-4332-b87a-f56d8d202876.PNG)
+
 ## Features
 
 - Movements/Crouch/Melee Attacks
@@ -19,9 +20,7 @@ The story of the game is a creature wants to fight the mold to get the fries rec
 
 
 ## Demo
-
-![test](https://i.imgur.com/ygHvjqq.gif)
-
+![Demo](https://user-images.githubusercontent.com/58863853/170800336-059ba69c-cef5-4178-94b4-6aa7492d9227.gif)
 
 ## Deployment
 
