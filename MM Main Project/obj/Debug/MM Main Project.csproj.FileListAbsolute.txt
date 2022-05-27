@@ -1,0 +1,18 @@
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\bin\Debug\MM Main Project.exe.config
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\bin\Debug\MM Main Project.exe
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\bin\Debug\MM Main Project.pdb
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM Main Project.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM_Main_Project.Properties.Resources.resources
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM Main Project.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM Main Project.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM Main Project.exe
+C:\Users\pc\source\repos\MM Main Project\MM Main Project\obj\Debug\MM Main Project.pdb
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\bin\Debug\MM Main Project.exe.config
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\bin\Debug\MM Main Project.exe
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\bin\Debug\MM Main Project.pdb
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM Main Project.csprojAssemblyReference.cache
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM_Main_Project.Properties.Resources.resources
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM Main Project.csproj.GenerateResource.cache
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM Main Project.csproj.CoreCompileInputs.cache
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM Main Project.exe
+G:\Work\Work semester 4\CS232 - Multimedia Programming\Main Project Steal El Btates\MM Main Project\obj\Debug\MM Main Project.pdb
