@@ -38,4 +38,4 @@ The game is about objects (shapes ,images) in 2D visual space with a (X, Y) "2D 
 Painting these object for Visualisation with double buffer to avoid repainting every frame
 
 ## Date
-This was my Course project for 3D Visualisation at **May 2020**
+This was my Course project for Multi Media at **May 2020**
